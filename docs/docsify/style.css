@@ -262,7 +262,17 @@ main.hidden {
 	width: 300px;
 	z-index: 20
 }
-
+.sidebar .app-name a{
+	z-index: 999;
+}
+.sidebar .app-name img {
+	width:1em;
+	border:1px solid var(--LogoBorderColor);
+	border-radius: 3px;
+	position:absolute;
+	top:0.5em;
+	right:0.5em;
+}
 .sidebar>h1 {
 	margin: 0 auto 1rem;
 	font-size: 1.5rem;
@@ -282,7 +292,8 @@ main.hidden {
 
 .sidebar .sidebar-nav {
 	line-height: 2em;
-	padding-bottom: 40px
+	padding-bottom: 40px;
+    border-top: 1px solid var(--borderColor);
 }
 
 .sidebar li.collapse .app-sub-sidebar {
@@ -336,11 +347,12 @@ main.hidden {
 	outline: none;
 	padding: 10px;
 	position: absolute;
-	bottom: 0;
+	top: 0;
 	left: 0;
 	text-align: center;
 	transition: opacity .3s;
-	width: 284px;
+	/* width: 284px; */
+	width:32px;;
 	z-index: 30;
 	cursor: pointer
 }
@@ -359,11 +371,11 @@ main.hidden {
 
 body.sticky .sidebar,
 body.sticky .sidebar-toggle {
-	position: fixed
+	position: fixed;
 }
 
 .content {
-	padding-top: 60px;
+	padding-top: 10px;
 	position: absolute;
 	top: 0;
 	right: 0;
@@ -375,7 +387,7 @@ body.sticky .sidebar-toggle {
 .markdown-section {
 	margin: 0 auto;
 	max-width: 90%;
-	padding: 30px 15px 40px;
+	padding: 20px 15px 40px;
 	position: relative
 }
 
@@ -583,6 +595,15 @@ body.close .content {
 		transform: rotate(10deg)
 	}
 }
+section.content header {
+	border-bottom: 1px solid #ddd;
+}
+section.content header img {
+	width:44px;
+	border-radius: 3px;
+	border:1px solid #aaa;
+	margin-left:1em;
+}
 
 section.cover {
 	align-items: center;
@@ -705,6 +726,7 @@ body {
 
 .sidebar {
 	color: var(--textColor);
+	background-color: var(--sidebarBackground);
 }
 
 .sidebar li {
@@ -994,8 +1016,8 @@ pre:after {
     border: none;
     background-color: transparent;
 	position: absolute;
-	right: 10px;
-    top: 15px;
+	right: 5px;
+    top: 5px;
 	width: 25px;
 	height: 25px;
 	background-repeat: no-repeat;

@@ -12,32 +12,26 @@
     title="docsify-darklight-theme"
     type="text/css"
   />
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/buble.css" />
 </head>
 <body>
   <div id="app">Typing docs...</div>
+
+  <script src="docsify/docsify.min.js"></script>
+  <!-- <script src="docsify/search.min.js"></script> -->
   <script>
     window.$docsify = {
+      name: 'Keeb.pro',
+      nameLink: '/',
+      logo: 'docsify/logo.png',
       loadSidebar: true,
       subMaxLevel: 2,
-      search: 'auto',
       coverpage: false,
-      loadNavbar: true,
+      loadNavbar: false,
       mergeNavbar: true,
       homepage: 'home.md',
       auto2top: true,
       notFoundPage: '404.md',
-      // logo: 'docsify/logo.png',
       formatUpdated: '{YYYY}.{MM}.{DD}',
-      search: {
-        noData: {
-          '/': 'No results!'
-        },
-        paths: 'auto',
-        placeholder: {
-          '/': 'Search'
-        }
-      },
       plugins: [
         function(hook) {
           var header = [
@@ -75,11 +69,10 @@
       }
     }
   </script>
-  <script src="docsify/docsify.min.js"></script>
-  <script src="docsify/search.min.js"></script>
   <script 
     src="docsify/index.min.js"
     type="text/javascript">
   </script>
+    
 </body>
 </html>
