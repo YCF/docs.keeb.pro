@@ -758,8 +758,8 @@ body {
 }
 
 .app-sub-sidebar li:before {
-	content: "-";
-	padding-right: 4px;
+	/* content: "-"; */
+	/* padding-right: 4px; */
 	float: left
 }
 
@@ -776,6 +776,11 @@ body {
 	color: var(--accent);
 	font-weight: 600;
 	text-decoration: none;
+	text-decoration: underline;
+}
+
+a[href*="//"]:not([href*="keeb.pro"]) {
+    /* external link styles, use :before or :after if you want! */
 }
 
 .markdown-section h1 {
@@ -1029,6 +1034,30 @@ pre:after {
 	cursor: pointer;
 	user-select: none;
 	transition: background-image .15s ease-in-out .15s
+}
+.sidebar-nav > ul{
+	padding:0;
+	margin:0;
+}
+
+.sidebar-nav > ul > li > p {
+	padding-left:10px;
+	border-top: solid 1px #e1a61a;
+    border-bottom: solid 1px #e1a61a;
+    background-color: #ffda44;
+    background-image: -khtml-gradient(linear,left top,left bottom,from(#ffda44),to(#fabc2b));
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#ffda44),to(#fabc2b));
+    background-image: -webkit-linear-gradient(#ffda44,#fabc2b);
+    background-image: -moz-linear-gradient(#ffda44,#fabc2b);
+    background-image: -o-linear-gradient(#ffda44,#fabc2b);
+    background-image: linear-gradient(#ffda44,#fabc2b);
+}
+.sidebar-nav >  ul > li > ul > li{
+	list-style:  decimal-leading-zero;
+	margin-left:20px;
+}
+.sidebar-nav > ul > li > ul > li > ul > li{
+	list-style: disc;
 }
 
 /* .tooltip {

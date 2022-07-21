@@ -11,9 +11,9 @@
 
 * 配置工具使用
 
-  * [基本原理](zh-cn/configuration.md)
-  * [浏览器支持](zh-cn/themes.md)
-  * [界面说明](zh-cn/plugins.md)
+  * [基本原理](/404.md)
+  * [浏览器支持](/404.md)
+  * [界面说明](/404.md)
 
 * 固件相关
 
