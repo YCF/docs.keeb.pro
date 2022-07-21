@@ -777,6 +777,9 @@ body {
 	font-weight: 600;
 	text-decoration: underline;
 }
+.markdown-section a:hover{
+	text-decoration: none;
+}
 
 .markdown-section h1 a,
 .markdown-section h2 a,
