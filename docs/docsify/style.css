@@ -775,8 +775,15 @@ body {
 .markdown-section a {
 	color: var(--accent);
 	font-weight: 600;
-	text-decoration: none;
 	text-decoration: underline;
+}
+
+.markdown-section h1 a,
+.markdown-section h2 a,
+.markdown-section h3 a,
+.markdown-section h4 a,
+.markdown-section h5 a {
+	text-decoration: none;
 }
 
 a[href*="//"]:not([href*="keeb.pro"]) {
