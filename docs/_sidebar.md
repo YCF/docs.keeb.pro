@@ -1,4 +1,10 @@
-* [首页](home.md)
+* Keeb.pro
+
+  * [文档首页](home.md)
+
+  * [支持列表](/keyboards_list.md)
+
+  * [主站首页](https://keeb.pro)
 
 * 基本概念
 
@@ -8,6 +14,7 @@
   * [Fn键/层(未写)](/layer.md)
   * [其他按键(未写)](/otherKey.md)
   * [键盘宏(未写)](/macro.md)
+  * [全键无冲](/nkro.md)
 
 * 配置工具使用
 
@@ -20,10 +27,7 @@
 
   * [刷写键盘固件](firmware_upgrade.md)
 
-* 支持列表
-  * 本鸽
-  * 好朋友
-  * 第三方
+
 * 更多
   * [价值观/原则(未写)](/principle.md)
   * [致谢(未写)](/thanks.md)
