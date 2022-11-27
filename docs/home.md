@@ -8,5 +8,3 @@
 2. 如果你对 `TMK/QMK` 类键盘功能已熟悉，可以直接跳过`基本概念`章节，从 [使用章节](requirement) 开始阅读。
 
 -EOF-
-
-最近更新： {docsify-updated}

@@ -28,5 +28,3 @@
 - 同时按下 `LShift+RShift+N`，即左右两个shift键（键值也需要对应）。
 
 -EOF-
-
-最近更新： {docsify-updated}

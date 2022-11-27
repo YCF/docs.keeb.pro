@@ -25,5 +25,3 @@
 - `Opera` 欧朋浏览器（未进行实际测试，可能会有其他兼容问题），上一时代的王者，官方下载地址：[Opera](https://www.opera.com/zh-cn) 。
 
 -EOF-
-
-最近更新： {docsify-updated}

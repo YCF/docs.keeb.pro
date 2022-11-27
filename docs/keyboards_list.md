@@ -23,5 +23,3 @@
 
 
 -EOF-
-
-最近更新： {docsify-updated}
