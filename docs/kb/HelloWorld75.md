@@ -12,8 +12,8 @@
 
 ## 固件
 
-下载：[HelloWorld75_20221221.uf2](/download_firmware/HelloWorld75/20221221_keebpro_helloworld75.uf2 ":ignore")
+下载：[20221223_keebpro_hw75.uf2](/download_firmware/HelloWorld75/20221223_keebpro_hw75.uf2 ":ignore")
 
 ## 固件变动历史：
 
-- 20221221:创世提交,[HelloWorld75_20221221.uf2](/download_firmware/HelloWorld75/20221221_keebpro_helloworld75.uf2 ":ignore").
+- 20221221:创世提交,[20221223_keebpro_hw75.uf2](/download_firmware/HelloWorld75/20221223_keebpro_hw75.uf2 ":ignore").
