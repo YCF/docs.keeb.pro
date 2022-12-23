@@ -16,10 +16,11 @@
 |     Ca66      | Yock.wan |    BaBa     | [Keeb.pro](https://github.com/KeebProStudio/firmware) |                  -                  |
 |     S7.7      |   Sam    |   wesley    |                           -                           |                  -                  |
 |    RM.Pad     |   Sam    |   wesley    |                           -                           |                  -                  |
-|    瀚文 75    |  大男孩  | peng-zhihui |                        整理中                         | [瀚文 75 Help](/kb/HelloWorld75.md) |
+|    瀚文 75    |   DIY    | peng-zhihui |                        整理中                         | [瀚文 75 Help](/kb/HelloWorld75.md) |
 
 ### 第三方
 
 情谊不浓，但也尽力为之。
 
 -EOF-
+https://docs.keeb.pro/#/keyboards_list
