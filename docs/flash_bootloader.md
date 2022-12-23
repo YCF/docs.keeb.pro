@@ -23,15 +23,15 @@
 2.双击安装包进行安装，然后启动软件，此时不用插上 PWLink2。
 
 3.直接插上 PWLink2 到电脑的 USB 口，不要连接到键盘的 SWD 接口，刷写客户端可能会更新 PWLink2 里面的固件，点确认就行。
-![升级PWLink2固件](#/img/PWLink2/Pwlink2_1.png "升级PWLink2固件")
+<img src='/img/PWLink2/Pwlink2_1.png'></img>
 
 4.选择芯片。这里以韩文 75 使用的 STM32F103CB 系列为例，选择完后点击一下“应用设置”。界面上的擦除方式建议用默认的“全片擦除”，接口电平一般就是 3.3V。基本默认就可以了。
-![选择芯片](#/img/PWLink2/Pwlink2_2.png "选择芯片")
+<img src='/img/PWLink2/Pwlink2_2.png'></img>
 
 5.选择 Bootloader 固件。一路点确认即可，起始位置就是 `0x08000000`，因为这是 Bootloader，芯片启动后运行的第一个程序,最后别忘了点一下“应用固件”。
-![选择bootloader固件](#/img/PWLink2/Pwlink2_3.png "选择bootloader固件")
+<img src='/img/PWLink2/Pwlink2_3.png'></img>
 
-![选择bootloader固件](#/img/PWLink2/Pwlink2_4.png "选择bootloader固件")
+<img src='/img/PWLink2/Pwlink2_4.png'></img>
 
 6.连接 PWLink2 的 VCC 到键盘（确认好 VCC 和 GND 就可以接上去 DIO 和 CLK 接反就是烧录不成功，VCC 和 GND 接反就是烧键盘，键盘 USB 不要连，如果还是有点怕，就把 PWLink2 从电脑下拔下来，先体验一下，不紧张就好了）。每个键盘对于这 4 个引脚的顺序会有所不同，建议红色线用于接 VDD,黑色线接 GND，养成良好习惯。
 如果你用的是我的同款，PWLink2 自带的线插入后（有防差错设计），红线和黑线对应就是 VDD 和 GND，你核对一下。然后 SWDIO 和 SWCLK 是挨在一起的蓝色和白色。
@@ -43,8 +43,8 @@
 |  SWDIO  | DIO  |
 |  SWCLK  | CLK  |
 
-![连接SWD](#/img/PWLink2/Pwlink2_5.png "连接SWD")
+<img src='/img/PWLink2/Pwlink2_5.png'></img>
 
 7.当连接好后，PWLink2 客户端右下角会告诉你芯片连接成功（我截图上没有，请有的朋友给我补一下这张图）。然后依次点击软件上方菜单“执行”，“Program Memory 自动编程”。手稳住等一下就好，只要几秒。提示成功后就可以了，这是带自动验证的。烧录成功后，没有刷入键盘 UF2 固件的情况下，键盘 USB 加入电脑就是会提示一个 U 盘。
 
-![烧录](#/img/PWLink2/Pwlink2_6.png "烧录")
+<img src='/img/PWLink2/Pwlink2_6.png'></img>
