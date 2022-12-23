@@ -39,10 +39,12 @@
 | PWLink2 | 键盘 |
 | :-----: | :--: |
 |   VDD   | VCC  |
+|   GND   | GND  |
 |  SWDIO  | DIO  |
 |  SWCLK  | CLK  |
-|   GND   | GND  |
+
+![连接SWD](/img/PWLink2/Pwlink2_5.png "连接SWD")
 
 7.当连接好后，PWLink2 客户端右下角会告诉你芯片连接成功（我截图上没有，请有的朋友给我补一下这张图）。然后依次点击软件上方菜单“执行”，“Program Memory 自动编程”。手稳住等一下就好，只要几秒。提示成功后就可以了，这是带自动验证的。烧录成功后，没有刷入键盘 UF2 固件的情况下，键盘 USB 加入电脑就是会提示一个 U 盘。
 
-![烧录](/img/PWLink2/Pwlink2_5.png "选择bootloader固件")
+![烧录](/img/PWLink2/Pwlink2_6.png "烧录")
