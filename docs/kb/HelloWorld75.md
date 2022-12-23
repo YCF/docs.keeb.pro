@@ -10,6 +10,10 @@
 
 下载：[HelloWorld75_uf2bootloader.bin](/download_firmware/HelloWorld75/helloworld75_uf2bootloader.bin ":ignore")
 
+刷写方法：(有风险，请谨慎操作)
+
+[刷写-stm32-系列芯片 Bootloader](/flash_bootloader?id=刷写-stm32-系列芯片)
+
 ## 固件
 
 下载：[20221223_keebpro_hw75.uf2](/download_firmware/HelloWorld75/20221223_keebpro_hw75.uf2 ":ignore")
