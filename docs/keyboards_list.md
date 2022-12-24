@@ -30,4 +30,3 @@
 | Gopolar GG87  | Gopolar  |   Gopolar   |     需要我编译的固件，我再找找      |  顺手支持上了  |
 
 -EOF-
-https://docs.keeb.pro/#/keyboards_list
