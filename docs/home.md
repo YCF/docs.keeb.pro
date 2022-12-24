@@ -13,6 +13,6 @@
 
 ### 给服务器充电、请我喝可乐
 
-<img src='https://docs.keeb.pro/img/thanks.png' width="300px"></img>
+<img src='https://docs.keeb.pro/img/thanks.png' width="500px"></img>
 
 -EOF-
