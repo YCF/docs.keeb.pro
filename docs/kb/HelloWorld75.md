@@ -4,7 +4,11 @@
 
 详细说明正在撰写。
 
+---
+
 ## Bootloader
+
+> 后续键盘固件会验证本 Bootloader 内容，请某些朋友别动坏心思，尊重劳动成果。
 
 开发者信息： 4000，即 16K。
 
@@ -16,9 +20,15 @@
 
 [刷写-stm32-系列芯片 Bootloader](/flash_bootloader?id=刷写-stm32-系列芯片)
 
-## 固件
+---
+
+## 键盘固件
+
+使用上方 Bootloader 后，使用 [U 盘模式](firmware_upgrade.md#u盘模式) 进行升级，后续升级可以使用 [在线进入法](firmware_upgrade.md#4-在线进入法) 进入固件升级模式。
 
 下载：[20221223_keebpro_hw75.uf2](/download_firmware/HelloWorld75/20221223_keebpro_hw75.uf2 ":ignore")
+
+---
 
 ## 固件变动历史：
 
