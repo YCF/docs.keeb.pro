@@ -45,6 +45,10 @@
 
 <img src='https://docs.keeb.pro/img/PWLink2/PWLINK2_5.png'></img>
 
-7.当连接好后，PWLink2 客户端右下角会告诉你芯片连接成功（我截图上没有，请有的朋友给我补一下这张图）。然后依次点击软件上方菜单“执行”，“Program Memory 自动编程”。手稳住等一下就好，只要几秒。提示成功后就可以了，这是带自动验证的。烧录成功后，没有刷入键盘 UF2 固件的情况下，键盘 USB 加入电脑就是会提示一个 U 盘。
+7.当连接好后，PWLink2 客户端右下角会告诉你芯片连接成功。
 
-<img src='https://docs.keeb.pro/img/PWLink2/PWLINK2_6.png'></img>
+<img src='https://docs.keeb.pro/img/PWLink2/PWLINK2_6.jpg'></img>
+
+8.依次点击软件上方菜单“执行”，“Program Memory 自动编程”。手稳住等一下就好，只要几秒。提示成功后就可以了，这是带自动验证的。烧录成功后，没有刷入键盘 UF2 固件的情况下，键盘 USB 加入电脑就是会提示一个 U 盘。
+
+<img src='https://docs.keeb.pro/img/PWLink2/PWLINK2_7.png'></img>
