@@ -32,7 +32,7 @@
 
 使用上方 Bootloader 后，使用 [U 盘模式](firmware_upgrade.md#u盘模式) 进行升级，后续升级可以使用 [在线进入法](firmware_upgrade.md#4-在线进入法) 进入固件升级模式。
 
-下载：[20230125_keebpro_hw75.uf2](/download_firmware/HelloWorld75/20230125_keebpro_hw75.uf2 ":ignore")
+下载：[20230128_keebpro_hw75.uf2](/download_firmware/HelloWorld75/20230128_keebpro_hw75.uf2 ":ignore")
 
 ---
 
@@ -46,3 +46,4 @@
 
 - 20221221:创世提交,[20221223_keebpro_hw75.uf2](/download_firmware/HelloWorld75/20221223_keebpro_hw75.uf2 ":ignore").
 - 20230125:修正电脑休眠唤醒后 RGB 失效,[20230125_keebpro_hw75.uf2](/download_firmware/HelloWorld75/20230125_keebpro_hw75.uf2 ":ignore").
+- 20230128:RGB 可通过 `RGB_TOG`键 在`所有`、`仅底部氛围灯`、`关闭` 三个状态切换,[20230128_keebpro_hw75.uf2](/download_firmware/HelloWorld75/20230128_keebpro_hw75.uf2 ":ignore").
