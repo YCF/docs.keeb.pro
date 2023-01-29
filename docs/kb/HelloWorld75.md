@@ -47,3 +47,9 @@
 - 20221221:创世提交,[20221223_keebpro_hw75.uf2](/download_firmware/HelloWorld75/20221223_keebpro_hw75.uf2 ":ignore").
 - 20230125:修正电脑休眠唤醒后 RGB 失效,[20230125_keebpro_hw75.uf2](/download_firmware/HelloWorld75/20230125_keebpro_hw75.uf2 ":ignore").
 - 20230128:RGB 可通过 `RGB_TOG`键 在`所有`、`仅底部氛围灯`、`关闭` 三个状态切换,[20230128_keebpro_hw75.uf2](/download_firmware/HelloWorld75/20230128_keebpro_hw75.uf2 ":ignore").
+
+## 其他有用的信息
+
+- zmk 版本 [gtihub repo](https://github.com/xingrz/zmk-config_helloword_hw-75)，作者：[XiNGRZ](https://xingrz.me/)。
+- 推荐拓展固件 [github repo](https://github.com/xingrz/zmk-config_helloword_hw-75/tree/master/config/boards/arm/hw75_dynamic) ,拓展对应 Bootloader(偏移 0x10000) [releases](https://github.com/xingrz/tinyuf2/releases)，作者：[XiNGRZ](https://xingrz.me/)。
+- 拓展在线配置面板 [hw](https://hw.xingrz.me/)，需要用 [Zadig](https://zadig.akeo.ie/) 安装驱动为 WinUSB 。作者：[XiNGRZ](https://xingrz.me/)。
