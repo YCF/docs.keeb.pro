@@ -52,4 +52,4 @@
 
 - zmk 版本 [gtihub repo](https://github.com/xingrz/zmk-config_helloword_hw-75)，作者：[XiNGRZ](https://xingrz.me/)。
 - 推荐拓展固件 [github repo](https://github.com/xingrz/zmk-config_helloword_hw-75/tree/master/config/boards/arm/hw75_dynamic) ,拓展对应 Bootloader(偏移 0x10000) [releases](https://github.com/xingrz/tinyuf2/releases)，作者：[XiNGRZ](https://xingrz.me/)。
-- 拓展在线配置面板 [hw](https://hw.xingrz.me/)，需要用 [Zadig](https://zadig.akeo.ie/) 安装驱动为 WinUSB 。作者：[XiNGRZ](https://xingrz.me/)。
+- 拓展在线配置面板 [ZMKX](https://zmkx.app/)，需要用 [Zadig](https://zadig.akeo.ie/) 安装驱动为 WinUSB 。作者：[XiNGRZ](https://xingrz.me/)。
