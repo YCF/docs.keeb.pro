@@ -12,6 +12,7 @@
 
 | Keyboard Name |   Case   |  PCB   |                       Firmware                        |       Document & DXF       |
 | :-----------: | :------: | :----: | :---------------------------------------------------: | :------------------------: |
+|     S65V2     |   Sam    | wesley | [Keeb.pro](https://github.com/KeebProStudio/firmware) | [S65V2 Help](/kb/s65v2.md) |
 |     S80V2     |   Sam    | wesley | [Keeb.pro](https://github.com/KeebProStudio/firmware) | [S80V2 Help](/kb/s80v2.md) |
 |     Ca66      | Yock.wan |  BaBa  | [Keeb.pro](https://github.com/KeebProStudio/firmware) |             -              |
 |     S7.7      |   Sam    | wesley |                           -                           |             -              |
