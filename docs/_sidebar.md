@@ -29,5 +29,6 @@
   - [刷写 Bootloader](flash_bootloader.md)
 
 - 更多
-  - [价值观/原则(未写)](/principle.md)
-  <!-- - [致谢(未写)](/thanks.md) -->
+- [相关链接](links.md)
+- [价值观/原则](principle.md)
+<!-- - [致谢(未写)](/thanks.md) -->

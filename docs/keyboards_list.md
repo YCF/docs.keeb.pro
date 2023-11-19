@@ -10,7 +10,7 @@
 
 好朋友不多，一般都会尽力将功能支持打满。
 
-| Keyboard Name |   Case   |  PCB   |                       Firmware                        |       Document & DXF       |
+| Keyboard Name |   Case   |  PCB   |                       Firmware                        |      Document & OSHW       |
 | :-----------: | :------: | :----: | :---------------------------------------------------: | :------------------------: |
 |     S65V2     |   Sam    | wesley | [Keeb.pro](https://github.com/KeebProStudio/firmware) | [S65V2 Help](/kb/s65v2.md) |
 |     S80V2     |   Sam    | wesley | [Keeb.pro](https://github.com/KeebProStudio/firmware) | [S80V2 Help](/kb/s80v2.md) |
