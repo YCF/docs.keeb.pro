@@ -2,7 +2,7 @@
 
 ## 客制化工具站点
 
-- [KLE](http://www.keyboard-layout-editor.com/)':ignore') 键位布局设计，客制化工具站顶流大哥。
+- [KLE](http://www.keyboard-layout-editor.com/) 键位布局设计，客制化工具站顶流大哥。
 - [http://builder.swillkb.com/](http://builder.swillkb.com/) 老牌定位板生成网站。
 - [ai03 Plate Generator](https://kbplate.ai03.com/) ai03 的定位板生成网站，功能更丰富。
 
