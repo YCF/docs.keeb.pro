@@ -20,7 +20,7 @@
 
 ## 国界
 
-有一句在 [Zorm](https://gitee.com/chunanyong/zorm) 作者文档里的一句话深深触动了我：
+有一句在 [Zorm](https://gitee.com/chunanyong/zorm) 文档里的一句话深深触动了我：
 
     开源没有国界,开发者却有自己的祖国.
 
