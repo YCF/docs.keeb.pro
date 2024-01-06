@@ -17,6 +17,7 @@
 - [typing-cn](https://barneyzhao.gitee.io/typing-cn/#/)
 - [speedcoder](https://www.speedcoder.net/lessons/)
 - [typing.io](https://typing.io/)
+- [Qwerty learner]（https://qwerty.kaiyi.cool/）
 
 ## 开源代码
 
