@@ -36,7 +36,7 @@ Magnet-67 是 Keeb.pro 首个向外发布的软硬件一体研发的键盘，将
 
 - Firmware:正在梳理。
 - VIA json:磁轴键盘有很多调整值，VIA 无法满足。
-- Plate:正在整理。
+- Plate:[plate-Magnet67.dwg](/OSHW_files/KeebPro_Magnet67/plate-Magnet67.dwg ':ignore')。
 
 ## 全键无冲
 
