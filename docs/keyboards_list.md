@@ -4,7 +4,9 @@
 
 ### 站长产品
 
-这位鸽子站长最擅长的是给键盘命名和新建文件夹，还没开过团。
+| Keyboard Name |   Case   |   PCB    |   Firmware   |          Document & OSHW           |
+| :-----------: | :------: | :------: | :----------: | :--------------------------------: |
+|   Magnet-67   | Yock.wan | Keeb.pro | Comming soon | [Magnet-67 Help](/kb/Magnet-67.md) |
 
 ### 好友产品
 
