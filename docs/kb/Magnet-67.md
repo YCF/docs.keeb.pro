@@ -54,10 +54,10 @@ Magnet-67 是 Keeb.pro 首个向外发布的软硬件一体研发的键盘，将
 
 磁轴键盘固件正在开发阶段，建议一直使用最新固件。
 
-- 0x20240114: [magnet67_20240114.uf2](/download_firmware/KeebPro_magnet67/keebpro_magnet67_202401141238.uf2.uf2 ':ignore')
+- 0x20240114: [magnet67_20240114.uf2](/download_firmware/KeebPro_magnet67/keebpro_magnet67_202401141238.uf2 ':ignore')
   - 修正“迅疾触发”按键释放到顶部死区也不是释放的问题。
   - 默认开启 NKRO（全键无冲）
-- 出厂自带固件: [magnet67_20240106.uf2](/download_firmware/KeebPro_magnet67/keebpro_magnet67_20240106.uf2 ':ignore')
+- 出厂自带固件: [magnet67_20240106.uf2](/download_firmware/KeebPro_magnet67/keebpro_magnet67_202401061715.uf2 ':ignore')
 
 ## FAQ
 
