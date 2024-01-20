@@ -21,6 +21,7 @@ Magnet-67 是 Keeb.pro 首个向外发布的软硬件一体研发的键盘，将
 - RGB 灯效，在线开关灯，设置灯效；
 - 轴体校准；
 - RT 键，顶部和底部可调死区；
+- SignalRGB 神光同步；
 - Win 键开关，在线设置或按键设置。
 
 ### 计划功能
@@ -29,7 +30,6 @@ Magnet-67 是 Keeb.pro 首个向外发布的软硬件一体研发的键盘，将
 - 电磁摇杆；
 - QMK 键盘宏；
 - 多达 8 个磁轴配置层并可实时切换或和 QMK 层绑定切换；
-- SignalRGB 神光同步；
 - 动态校准，可配置校准间隔和校准方式。
 
 ## 开源（OSHW）
@@ -40,7 +40,7 @@ Magnet-67 是 Keeb.pro 首个向外发布的软硬件一体研发的键盘，将
 
 ## 全键无冲
 
-支持全键无冲，默认关闭，请阅读 [NKRO 科普](/nkro.md)。
+支持全键无冲，从`0x2024014`后的固件默认开启，请阅读 [NKRO 科普](/nkro.md)。
 
 ## 固件升级
 
@@ -58,6 +58,10 @@ Magnet-67 是 Keeb.pro 首个向外发布的软硬件一体研发的键盘，将
   - 修正“迅疾触发”按键释放到顶部死区也不是释放的问题。
   - 默认开启 NKRO（全键无冲）
 - 出厂自带固件: [magnet67_20240106.uf2](/download_firmware/KeebPro_magnet67/keebpro_magnet67_202401061715.uf2 ':ignore')
+
+## 神光同步
+
+目前支持 SignalRGB 神光同步，插件文件：[KeebPro_SignalRGB_Magnet67_v0.js](/SignalRGB/KeebPro_magnet67/KeebPro_SignalRGB_Magnet67_v0.js)。
 
 ## FAQ
 
