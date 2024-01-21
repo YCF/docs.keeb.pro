@@ -54,8 +54,10 @@ Magnet-67 是 Keeb.pro 首个向外发布的软硬件一体研发的键盘，将
 
 磁轴键盘固件正在开发阶段，建议一直使用最新固件。
 
+- 0x20240121: [magnet67_20240121c.uf2](/download_firmware/KeebPro_magnet67/keebpro_magnet67_202401211703.uf2 ':ignore')
+  - 修正按键层 0 与磁层设置没实时更新的问题
 - 0x20240121: [magnet67_20240121b.uf2](/download_firmware/KeebPro_magnet67/keebpro_magnet67_202401211042.uf2 ':ignore')
-  - 修正按键层与磁层设置没实施更新的问题
+  - 修正按键层与磁层设置没实时更新的问题
 - 0x20240121: [magnet67_20240121.uf2](/download_firmware/KeebPro_magnet67/keebpro_magnet67_202401211005.uf2 ':ignore')
   - 磁轴配置可板载保存 8 个，并支持自定义命名
   - 按键层可与磁轴 8 个配置相互任意绑定并可在键盘使用时实时同步切换
