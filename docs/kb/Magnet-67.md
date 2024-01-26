@@ -69,7 +69,7 @@ Magnet-67 是 Keeb.pro 首个向外发布的软硬件一体研发的键盘，将
 
 ## 神光同步
 
-目前支持 SignalRGB 神光同步，插件文件：[KeebPro_SignalRGB_Magnet67_v0.js](/SignalRGB/KeebPro_magnet67/KeebPro_SignalRGB_Magnet67_v0.js)。
+目前支持 SignalRGB 神光同步，插件文件：[KeebPro_SignalRGB_Magnet67_v0.js](/SignalRGB/KeebPro_magnet67/KeebPro_SignalRGB_Magnet67.js)。
 
 ## FAQ
 
