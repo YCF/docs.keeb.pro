@@ -54,6 +54,8 @@ Magnet-67 是 Keeb.pro 首个向外发布的软硬件一体研发的键盘，将
 
 磁轴键盘固件正在开发阶段，建议一直使用最新固件。
 
+- 0x20240302: [magnet67_20240302.uf2](/download_firmware/KeebPro_magnet67/keebpro_magnet67_202403021515.uf2 ':ignore')
+  - 加入自动零位校准，降低温漂原因带来的断触等问题的出现概率
 - 0x20240215: [magnet67_20240215.uf2](/download_firmware/KeebPro_magnet67/keebpro_magnet67_202402151250.uf2 ':ignore')
   - 修正不能通过 `RGB_Toggle` 按键打开 RGB 灯的问题
 - 0x20240121: [magnet67_20240121c.uf2](/download_firmware/KeebPro_magnet67/keebpro_magnet67_202401211703.uf2 ':ignore')
