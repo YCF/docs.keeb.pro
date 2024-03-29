@@ -62,22 +62,36 @@ Magnet-67 是 Keeb.pro 首个向外发布的软硬件一体研发的键盘，将
 
 磁轴键盘固件正在开发阶段，建议一直使用最新固件。
 
-- 0x20240302: [magnet67_20240302.uf2](/download_firmware/KeebPro_magnet67/keebpro_magnet67_202403021515.uf2 ':ignore')
+- 0x20240329: [magnet67_20240302.uf2](/download_firmware/KeebPro_magnet67/keebpro_magnet67_202403292100.uf2 ':ignore')
+  - 更改了软件滤波算法，提高稳定性
+
+<!-- - 0x20240302: [magnet67_20240302.uf2](/download_firmware/KeebPro_magnet67/keebpro_magnet67_202403021515.uf2 ':ignore')
   - 据反映，非常不稳定，谨慎使用。
-  - 加入自动零位校准，降低温漂原因带来的断触等问题的出现概率
+  - 加入自动零位校准，降低温漂原因带来的断触等问题的出现概率 -->
+
 - 0x20240215: [magnet67_20240215.uf2](/download_firmware/KeebPro_magnet67/keebpro_magnet67_202402151250.uf2 ':ignore')
+
   - 修正不能通过 `RGB_Toggle` 按键打开 RGB 灯的问题
+
 - 0x20240121: [magnet67_20240121c.uf2](/download_firmware/KeebPro_magnet67/keebpro_magnet67_202401211703.uf2 ':ignore')
+
   - 修正按键层 0 与磁层设置没实时更新的问题
+
 - 0x20240121: [magnet67_20240121b.uf2](/download_firmware/KeebPro_magnet67/keebpro_magnet67_202401211042.uf2 ':ignore')
+
   - 修正按键层与磁层设置没实时更新的问题
+
 - 0x20240121: [magnet67_20240121.uf2](/download_firmware/KeebPro_magnet67/keebpro_magnet67_202401211005.uf2 ':ignore')
+
   - 磁轴配置可板载保存 8 个，并支持自定义命名
   - 按键层可与磁轴 8 个配置相互任意绑定并可在键盘使用时实时同步切换
   - RGB 灯效设置板载保存
+
 - 0x20240114: [magnet67_20240114.uf2](/download_firmware/KeebPro_magnet67/keebpro_magnet67_202401141238.uf2 ':ignore')
+
   - 修正“迅疾触发”按键释放到顶部死区也不是释放的问题。
   - 默认开启 NKRO（全键无冲）
+
 - 出厂自带固件: [magnet67_20240106.uf2](/download_firmware/KeebPro_magnet67/keebpro_magnet67_202401061715.uf2 ':ignore')
 
 ## 神光同步
