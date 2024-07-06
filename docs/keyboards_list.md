@@ -4,9 +4,10 @@
 
 ### 站长产品
 
-| Keyboard Name |   Case   |   PCB    |   Firmware   |                                       SignalRGB                                       |          Document & OSHW           |
-| :-----------: | :------: | :------: | :----------: | :-----------------------------------------------------------------------------------: | :--------------------------------: |
-|   Magnet-67   | Yock.wan | Keeb.pro | Comming soon | [Magnet67_v0.js](/SignalRGB/KeebPro_magnet67/KeebPro_SignalRGB_Magnet67.js ':ignore') | [Magnet-67 Help](/kb/Magnet-67.md) |
+| Keyboard Name |   Case   |   PCB    |                                       SignalRGB                                       |          Document & OSHW           |
+| :-----------: | :------: | :------: | :-----------------------------------------------------------------------------------: | :--------------------------------: |
+|   Magnet-67   | Yock.wan | Keeb.pro | [Magnet67_v0.js](/SignalRGB/KeebPro_magnet67/KeebPro_SignalRGB_Magnet67.js ':ignore') | [Magnet-67 Help](/kb/Magnet-67.md) |
+|   Hybrid-6X   |   ---    | Keeb.pro |                                     Comming soon                                      | [Hybrid-6X Help](/kb/Hybrid-6x.md) |
 
 ### 好友产品
 
