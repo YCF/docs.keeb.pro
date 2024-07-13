@@ -50,6 +50,11 @@ Hybrid-6x 是 Keeb.pro 软硬件一体研发的键盘，将会得到本站点的
 
 ## 固件下载
 
+- 0x20240713: [Hybrid6x_20240713.uf2](/download_firmware/KeebPro_hybrid6x/keebpro_hybrid6x_20240713.uf2 ':ignore')
+
+  - 增加提示音启用/禁用功能。
+  - 修正显示屏 win 键启用状态不随驱动刷新的问题。
+
 - 出厂自带固件: [hybrid6x_20240706.uf2](/download_firmware/KeebPro_hybrid6x/keebpro_hybrid6x_20240706.uf2 ':ignore')
 
 ## FAQ
