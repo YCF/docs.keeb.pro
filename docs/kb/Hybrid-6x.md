@@ -50,7 +50,7 @@ Hybrid-6x 是 Keeb.pro 软硬件一体研发的键盘，将会得到本站点的
 
 ## 固件下载
 
-- 0x20240714: [Hybrid6x_20240713.uf2](/download_firmware/KeebPro_hybrid6x/keebpro_hybrid6x_20240714.uf2 ':ignore')
+- 0x20240714: [Hybrid6x_20240714.uf2](/download_firmware/KeebPro_hybrid6x/keebpro_hybrid6x_20240714.uf2 ':ignore')
 
   - 磁轴配置切换按键仅在勾选有效的配置中进行循环切换。
 
